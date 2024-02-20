@@ -3,6 +3,7 @@
     <div class="pagetitle">
         <h1>Detail E-Book</h1>
     </div><!-- End Page Title -->
+    
     <section class="section">
         <div class="row">
             <div class="col-lg-6">
